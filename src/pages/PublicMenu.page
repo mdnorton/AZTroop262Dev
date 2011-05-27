@@ -2,11 +2,6 @@
 
     <apex:composition template="SiteTemplate">
         <apex:define name="body">
-            <apex:image url="{!URLFOR($Resource.aztroop262, 'images/headerbanner.jpg')}" width="100%"/>
-
-            <c:TroopMenu />
-            
-            <br/><br/>
 
             <c:WelcomeMessage />
 

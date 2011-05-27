@@ -16,12 +16,6 @@
 <div style="background: url({!URLFOR($Resource.aztroop262, 'images/topbg.gif')});height:1%">
 <ul class="mlddm" params="0,0,500,fade,200,h">
     <li><a href="/">Home</a></li>
-    <li><a href="#">About Us</a>
-        <ul>
-            <li><a href="#">Troop 262 History</a></li>
-            <li><a href="#">The Leaders</a></li>
-        </ul>
-    </li>
     <li><a href="/apex/TroopCalendar">Troop Calendar</a></li>
     <li><a href="#">Fundraising</a>
         <ul>
@@ -68,16 +62,16 @@
             </li>
             <li><a href="#" class="hsub">Training</a>
                 <ul>
-                    <li><a href="#">Online Learning Center</a></li>
-                    <li><a href="#">Youth Protection Training</a></li>
-                    <li><a href="#">Wood Badge</a></li>
+                    <li><a href="http://olc.scouting.org/">Online Learning Center</a></li>
+                    <li><a href="http://olc.scouting.org/info/ypt.html">Youth Protection Training</a></li>
+                    <li><a href="http://www.doubleknot.com/openrosters/ViewOrgPageLink.asp?LinkKey=6763&orgkey=62">Wood Badge</a></li>
                 </ul>
             </li>
             <li><a href="http://www.aztroop262.org/images/Troop%20262%20Handbook.pdf">Troop 262 Handbook</a></li>
             <li><a href="http://www.azpack262.org/">Pack 262</a></li>
             <li><a href="#">Eagle Scout Process</a>
                 <ul>
-                    <li><a href="#">Read this first 2011!</a></li>
+                    <li><a href="https://c.na9.content.force.com/sfc/servlet.shepherd/version/download/068E0000000Clll?asPdf=false&operationContext=CHATTER">Read this first 2011!</a></li>
                     <li><a href="#">Electronic Eagle Application</a></li>
                     <li><a href="#">Electronic Service Project Workbook</a></li>
                     <li><a href="#">Requirement 6 and Sample Narative</a></li>
@@ -88,12 +82,7 @@
             </li>
         </ul>
     </li>
-    <li><a href="#">Contact</a>
-        <ul>
-            <li><a href="#">Online Information Request</a></li>
-            <li><a href="#">Contact the Scout Master</a></li>
-        </ul>
-    </li>
+    <li><a href="/apex/ScoutMasterInfo">Contact</a></li>
     <li><a href="#">Log In</a></li>
 </ul>
 <div style="clear:both"></div>

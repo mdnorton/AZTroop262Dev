@@ -17,6 +17,10 @@
         <name>ApexTrigger</name>
     </types>
     <types>
+        <members>ScoutMasterContactInfo</members>
+        <name>HomePageComponent</name>
+    </types>
+    <types>
         <members>*</members>
         <name>StaticResource</name>
     </types>
