@@ -1,0 +1,7 @@
+<apex:component >
+	<h3>Scoutmaster - Mr. Philip Stephens</h3>
+	<br/>
+	<apex:outputLink value="mailto:scoutmaster@aztroop262.org">scoutmaster@aztroop262.org</apex:outputLink>
+	<br/>
+	<h3>602-492-2428</h3>
+</apex:component>
