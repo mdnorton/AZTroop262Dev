@@ -1,0 +1,17 @@
+<apex:component >
+
+    <h2>Welcome</h2>
+
+    <p>
+        This site is designed to distribute information about Troop 262 and its' scheduled activities.&nbsp;&nbsp;
+        Inside you'll find resources such as activity calendars, meeting information, maps to events, and links to other scouting resources.&nbsp;&nbsp;
+        Troop 262 meets weekly on Monday evening in the social center at St. Helen's Catholic Church from 7:30 to 9:00 P.M..  St. Helen's is located at the N.W. corner of 55th Avenue and Cholla Street in Glendale, Arizona. 
+    </p>
+
+    <p>
+        Browse through all of our links on the top of the page to easily navigate your way through our site. Please report any broken links.&nbsp;&nbsp;
+        Content on our site is regularly updated. Please stop by again.&nbsp;&nbsp;
+        Thank you for your interest! 
+    </p>
+
+</apex:component>

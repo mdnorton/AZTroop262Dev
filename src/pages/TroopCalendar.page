@@ -1,0 +1,15 @@
+<apex:page title="AZ Troop 262" sidebar="false" showHeader="false">
+
+    <apex:composition template="SiteTemplate">
+        <apex:define name="body">
+            <apex:image url="{!URLFOR($Resource.aztroop262, 'images/headerbanner.jpg')}" width="100%"/>
+
+            <c:TroopMenu />
+            
+            <br/><br/>
+
+            <iframe src="https://www.google.com/calendar/embed?src=mifpjhk0nbp73vqrl3jdg6vr4k%40group.calendar.google.com&ctz=America/Phoenix" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+        </apex:define>
+    </apex:composition>
+</apex:page>

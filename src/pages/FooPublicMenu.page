@@ -1,0 +1,4 @@
+<apex:page >
+
+    <c:TroopMenu />
+</apex:page>

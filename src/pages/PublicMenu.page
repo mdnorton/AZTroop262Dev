@@ -1,0 +1,15 @@
+<apex:page title="AZ Troop 262" sidebar="false" showHeader="false">
+
+    <apex:composition template="SiteTemplate">
+        <apex:define name="body">
+            <apex:image url="{!URLFOR($Resource.aztroop262, 'images/headerbanner.jpg')}" width="100%"/>
+
+            <c:TroopMenu />
+            
+            <br/><br/>
+
+            <c:WelcomeMessage />
+
+        </apex:define>
+    </apex:composition>
+</apex:page>
